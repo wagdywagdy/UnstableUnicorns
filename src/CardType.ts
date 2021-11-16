@@ -1,0 +1,8 @@
+enum CardType {
+    BABY_UNICORN,
+    BASIC_UNICORN,
+    MAGICAL_UNICORN,
+    UPGRADE,
+    DOWNGRADE,
+    INSTANT
+}

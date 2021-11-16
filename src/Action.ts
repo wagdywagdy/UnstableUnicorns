@@ -1,0 +1,3 @@
+class Action {
+    name!: string;
+}
